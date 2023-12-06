@@ -7,7 +7,7 @@ Here's a visual represantation of the project:
 <img width="960" alt="Capture" src="https://github.com/Perash14/AmazonBestSellers/assets/62203954/8046672a-227a-44d4-a2c5-14a99b613078">
 
 
-
+and...
 
 
 Here's a visual phone screen representation of the project:
