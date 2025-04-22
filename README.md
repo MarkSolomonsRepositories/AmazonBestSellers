@@ -1,6 +1,6 @@
 # AmazonBestSellers
-A starter project when I started studying React.
-Working on a big E-commerce app currently, keeping this public until the proper project is complete.
+A starter project when Mark started studying React.
+He was working on a big e-commerce app and planned to replace this project with it since it is quite basic but as the relevancy of full-stack development as a skill started steeply dropping thanks to developments in the field of artificial intelligence, Mark decided to discontinue this portfolio's development.
 
 Here's a visual represantation of the project:
 
